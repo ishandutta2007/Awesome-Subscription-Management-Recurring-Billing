@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Mentioned in Awesome"></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Subscription-Management-Recurring-Billing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Subscription-Management-Recurring-Billing?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Subscription-Management-Recurring-Billing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Subscription-Management-Recurring-Billing?style=social" alt="GitHub_Stars"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -69,28 +69,28 @@ Open-source recurring billing software provides self-hosted control, zero vendor
 
 ### ⚙️ Full Billing Platforms & Metering Engines
 
-- **[Hyperswitch](https://github.com/juspay/hyperswitch)** [![GitHub stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers)  
+- **[Hyperswitch](https://github.com/juspay/hyperswitch)** [![GitHub_Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers)  
   *High-performance, open-source payment orchestration platform written in Rust (Apache-2.0).* Connects to 100+ processors (Stripe, Adyen, Braintree) through a single unified API. Features intelligent transaction routing, smart retries, zero vendor lock-in, and native recurring payment vaults that pair seamlessly with subscription engines like Kill Bill. ⚡
 
-- **[Lago](https://github.com/getlago/lago)** [![GitHub stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers)  
+- **[Lago](https://github.com/getlago/lago)** [![GitHub_Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers)  
   *Leading open-source usage-based and subscription billing engine (AGPL-3.0).* Engineered as a self-hosted alternative to Chargebee and Stripe Billing. Features high-scale usage event ingestion, billable metrics aggregation (`COUNT`, `SUM`, `MAX`, `WEIGHTED SUM`), hybrid pricing plans, automated invoicing, and customizable dunning flows. 📊
 
-- **[Flexprice](https://github.com/flexprice/flexprice)** [![GitHub stars](https://img.shields.io/github/stars/flexprice/flexprice?style=social&color=white)](https://github.com/flexprice/flexprice/stargazers)  
+- **[Flexprice](https://github.com/flexprice/flexprice)** [![GitHub_Stars](https://img.shields.io/github/stars/flexprice/flexprice?style=social&color=white)](https://github.com/flexprice/flexprice/stargazers)  
   *Open-source pricing and billing infrastructure built for modern AI applications and developer tools (Apache-2.0).* Enables engineering teams to run entitlement checks, track consumption-based metrics in real time, launch dynamic pricing tiers, and deploy entirely within their own cloud VPC. 🤖
 
-- **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
+- **[Kill Bill](https://github.com/killbill/killbill)** [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)  
   *The enterprise-standard open-source subscription billing and payments engine (Apache-2.0, in production since 2010).* Provides catalog and multi-phase plan configuration, subscription lifecycle handling (upgrades, pauses, proration), event-driven invoicing, payment gateway plugins, dunning, tax compliance connectors, and multi-tenant isolation. Includes the open-source **Kaui** admin dashboard. 🏛️
 
-- **[OpenMeter](https://github.com/openmeterio/openmeter)** [![GitHub stars](https://img.shields.io/github/stars/openmeterio/openmeter?style=social&color=white)](https://github.com/openmeterio/openmeter/stargazers)  
+- **[OpenMeter](https://github.com/openmeterio/openmeter)** [![GitHub_Stars](https://img.shields.io/github/stars/openmeterio/openmeter?style=social&color=white)](https://github.com/openmeterio/openmeter/stargazers)  
   *Cloud-native usage metering infrastructure for consumption billing (Apache-2.0).* Ingests millions of real-time application and AI token events with deduplication and sub-second window aggregation, exporting clean billing records directly into Stripe, Lago, or ERP engines. ⏱️
 
-- **[BillaBear](https://github.com/billabear/billabear)** [![GitHub stars](https://img.shields.io/github/stars/billabear/billabear?style=social&color=white)](https://github.com/billabear/billabear/stargazers)  
+- **[BillaBear](https://github.com/billabear/billabear)** [![GitHub_Stars](https://img.shields.io/github/stars/billabear/billabear?style=social&color=white)](https://github.com/billabear/billabear/stargazers)  
   *Open-source subscription management and billing system built on PHP/Symfony.* Provides self-hosted subscription lifecycles, automated tax calculations, customer self-service billing portals, dunning automation, and Stripe integration without proprietary lock-in. 🐻
 
-- **[UniBee](https://github.com/UniBee-Billing/unibee)** [![GitHub stars](https://img.shields.io/github/stars/UniBee-Billing/unibee?style=social&color=white)](https://github.com/UniBee-Billing/unibee/stargazers)  
+- **[UniBee](https://github.com/UniBee-Billing/unibee)** [![GitHub_Stars](https://img.shields.io/github/stars/UniBee-Billing/unibee?style=social&color=white)](https://github.com/UniBee-Billing/unibee/stargazers)  
   *Lightweight open-source SaaS billing software (AGPL-3.0).* Positioned as an easy-to-deploy self-hosted billing system featuring product catalogs, recurring subscription flows, invoice creation, discount codes, merchant controls, and an end-user customer portal via Docker Compose. 🐝
 
-- **[Billmora](https://github.com/Billmora/billmora)** [![GitHub stars](https://img.shields.io/github/stars/Billmora/billmora?style=social&color=white)](https://github.com/Billmora/billmora/stargazers)  
+- **[Billmora](https://github.com/Billmora/billmora)** [![GitHub_Stars](https://img.shields.io/github/stars/Billmora/billmora?style=social&color=white)](https://github.com/Billmora/billmora/stargazers)  
   *Open-source automated web hosting and server recurring billing platform built on Laravel (GPL-3.0).* Manages client renewals, periodic recurring invoices, service provisioning, and ticketed support operations. 🖥️
 
 ### 🔀 Payment Switching & Developer Primitives
@@ -100,8 +100,8 @@ Open-source recurring billing software provides self-hosted control, zero vendor
 
 ### 📱 Personal Subscription Trackers
 
-- **[Wallos](https://github.com/ellite/Wallos)** [![GitHub stars](https://img.shields.io/github/stars/ellite/Wallos?style=social&color=white)](https://github.com/ellite/Wallos/stargazers) — Self-hostable web app for tracking personal subscriptions, recurring household expenses, and renewal alerts. 📉
-- **[Subscription-Manager](https://github.com/dh1011/subscription-manager)** [![GitHub stars](https://img.shields.io/github/stars/dh1011/subscription-manager?style=social&color=white)](https://github.com/dh1011/subscription-manager/stargazers) — Minimalist recurring expense and subscription tracker with calendar projections and push notifications. 📅
+- **[Wallos](https://github.com/ellite/Wallos)** [![GitHub_Stars](https://img.shields.io/github/stars/ellite/Wallos?style=social&color=white)](https://github.com/ellite/Wallos/stargazers) — Self-hostable web app for tracking personal subscriptions, recurring household expenses, and renewal alerts. 📉
+- **[Subscription-Manager](https://github.com/dh1011/subscription-manager)** [![GitHub_Stars](https://img.shields.io/github/stars/dh1011/subscription-manager?style=social&color=white)](https://github.com/dh1011/subscription-manager/stargazers) — Minimalist recurring expense and subscription tracker with calendar projections and push notifications. 📅
 
 ---
 
@@ -138,7 +138,7 @@ Contributions are welcome! Please follow these guidelines:
 
 1. **Fork** this repository. 🍴
 2. Create a new branch: `git checkout -b feature/add-billing-tool`. 🌿
-3. Add your tool to the appropriate table or list with valid Markdown links, pricing specifics, or GitHub stars badge. 📝
+3. Add your tool to the appropriate table or list with valid Markdown links, pricing specifics, or GitHub_Stars_Badge. 📝
 4. Ensure entries remain objective, factual, and free of sales marketing language. ⚖️
 5. Open a **Pull Request** explaining the additions. 🚀
 
